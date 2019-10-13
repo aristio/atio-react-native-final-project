@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "546202576803",
+    "firebase_url": "https://atioreactfirebase.firebaseio.com",
+    "project_id": "atioreactfirebase",
+    "storage_bucket": "atioreactfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546202576803:android:acf1ea79bee3ac4b021c16",
+        "android_client_info": {
+          "package_name": "com.atioreactfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546202576803-81jim59ipb0cv686s68h39i1itp87ih9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfbLIDgeWM0B2y6LXy9YnUjALterColA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546202576803-81jim59ipb0cv686s68h39i1itp87ih9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546202576803:android:0d0610407909b677021c16",
+        "android_client_info": {
+          "package_name": "com.atioreactnativelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546202576803-81jim59ipb0cv686s68h39i1itp87ih9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfbLIDgeWM0B2y6LXy9YnUjALterColA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546202576803-81jim59ipb0cv686s68h39i1itp87ih9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
